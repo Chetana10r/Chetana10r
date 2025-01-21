@@ -8,7 +8,7 @@ A passionate and enthusiastic data science professional and developer!
 - 🎓 I’m currently pursuing an **MSc in Data Science from Fergusson College (CGPA: 9.55)**  
 - 📊 I specialize in **Data Analysis, Machine Learning, and Full-Stack Development**  
 - 🌟 I’m the **Head of the Data Science Club** at Fergusson College  
-- 🏆 Winner of the **Avishkar24 State-Level Poster Presentation** in Engineering & Technology  
+- 🏆 Winner of the **Avishkar24 University-Level Poster Presentation** in Engineering & Technology  
 - 💡 I love collaborating on **innovative projects and research**  
 - 🚀 Developed an **Electronic Medical Record (EMR)** system using ReactJS, NodeJS, and MongoDB to streamline physiotherapy data management.  
 
@@ -17,12 +17,15 @@ A passionate and enthusiastic data science professional and developer!
 ### 🕵️ Connect with Me!  
 
 <div align="left">  
-  <a href="https://www.linkedin.com/in/chetana-rane" target="_blank">  
+  <a href="www.linkedin.com/in/chetana-rane-bb6ba3271" target="_blank">  
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn logo" />  
   </a>  
-  <a href="https://www.hackerrank.com/chetana_rane" target="_blank">  
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="HackerRank logo" />  
+  <div align="left">  
+  <a href="mailto:chetanarane10@gmail.com" target="_blank">  
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Email logo" />  
   </a>  
+</div>  
+
 </div>  
 
 ---
